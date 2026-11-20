@@ -1,0 +1,2 @@
+ALTER TABLE
+    public.stripe_events ENABLE ROW LEVEL SECURITY;
